@@ -7,7 +7,7 @@ $(document).ready(function(){
 function getTxt()
 {
     
-    $.get("http://miatribe.github.io/pipvpspy/Loki.txt?" + (Math.floor((new Date().getTime()) / 1000)), function(data){
+    $.get("http://miatribe.github.io/pipvpspy/Loki.txt?" + (Math.floor((Math.random() * 1000) + 1)), function(data){
         parseServerTxt(data);
     });
 }
