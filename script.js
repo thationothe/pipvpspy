@@ -2,7 +2,7 @@ $(document).ready(function(){
     getTxt();
     timeSinceUpdate();
     setInterval(timeSinceUpdate, 1000);
-    setInterval(getTxt, 5000);
+    setInterval(getTxt, 10000);
 });
 function getTxt()
 {
