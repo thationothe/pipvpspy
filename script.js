@@ -1,4 +1,3 @@
-//https://www.dropbox.com/s/hm88l8x2tdy8ygv/Loki.txt?dl=0
 $(document).ready(function(){
     getTxt();
     timeSinceUpdate();
