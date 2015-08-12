@@ -1,1 +1,1 @@
-Prontera [ 0 / 128 ]:Izlude [ 7 / 128 ]:Payon [ 0 / 128 ]:Alberta [ 0 / 128 ]:Morroc [ 0 / 128 ],1439395248.71249
+' PvP Nightmare Mode':' PvP Yoyo Mode':' PvP Event Mode',1439415208.73912
